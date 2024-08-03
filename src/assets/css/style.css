@@ -1,0 +1,28 @@
+.header-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 30vh; 
+    gap: 9px; 
+  }
+  
+  .header-box input {
+    width: 200px; 
+    padding: 20px;
+    height: 10px;
+    margin: 5px 0;
+  }
+  
+  .header-box button {
+    cursor: pointer;
+  }
+
+  .simpletable{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+       }
+  
